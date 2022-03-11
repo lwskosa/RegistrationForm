@@ -6,6 +6,5 @@ public class FrontEndUI {
     DAO userDB = new DAO();
 	NewUser tempUser = new NewUser(userDB);
     tempUser.registerUserFull();
-
     }
 }

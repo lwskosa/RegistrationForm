@@ -49,12 +49,9 @@ public class DAO {
         user.optionsEditMenu();
     }
 
-    public void deleteUser(String qury, Filter filter){
+    public void deleteUser(String query, Filter filter){
 
 
     }
-
-
-
 
 }
